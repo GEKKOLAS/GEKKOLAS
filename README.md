@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning more about coding.
 - 🌱 I’m currently learning ... how to code in Unity, c# and more.
 - 💞️ I’m looking to collaborate on ... social media, ilustration and video games
-- 📫 How to reach me ... nicolas.murillo@boomlabs.edu.co.
+- 📫 How to reach me ... nikolasarango@outlook.com
 
 <!---
 GEKKOLAS/GEKKOLAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
