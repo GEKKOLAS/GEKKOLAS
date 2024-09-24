@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GEKKOLAS
+- 👋 Hi, I’m @GEKKO
 - 👀 I’m interested in ... learning more about coding.
 - 🌱 I’m currently learning ... how to code in Unity, c# and more.
 - 💞️ I’m looking to collaborate on ... social media, ilustration and video games
