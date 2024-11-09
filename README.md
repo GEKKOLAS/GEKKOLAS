@@ -81,12 +81,15 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/GEKKOLAS/GEKKOLAS/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg4b2I0dXFzbTE3ZTk5cnhtYnNidWowbXpiNWhqMTFmZnp0NHdsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kC3s8IIO92ykrd7WDp/giphy.gif "  />
 </div>
 
+###
 ###
 
 <picture>
