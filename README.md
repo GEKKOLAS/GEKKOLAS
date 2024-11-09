@@ -1,3 +1,4 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 <h2 align="center">Hi 👋! My name is Nicolas and I'm a full-stack developer, from Colombia.<br><br>I´m currently learning about the .NET environment and game development.</h2>
 
 ###
