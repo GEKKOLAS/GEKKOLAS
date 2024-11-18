@@ -1,9 +1,10 @@
 <img src="welcome to my profile.png" alt="GitHub Banner" width="100%" align="center" />
-<h2 align="center">Hi 👋! My name is Nicolas and I'm a full-stack developer, from Colombia.<br><br>I´m currently learning about the .NET environment and game development.</h2>
+
 
 ###
 
 <div align="center">
+  <h2 align="center">Hi 👋! My name is Nicolas and I'm a full-stack developer, from Colombia.<br><br>I´m currently learning about the .NET environment and game development.</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GEKKOLAS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
