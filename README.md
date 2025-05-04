@@ -1,5 +1,5 @@
 
-# 📱 Hi, I'm [Your Name] - Full Stack Developer 🚀
+# 📱 Hi, I'm Nicolas - .NET Full Stack Developer 🚀
 
 ## About Me
 Business-minded developer with a unique blend of technical expertise and international business acumen. Professional background in International Business and Digital Marketing, bringing a holistic approach to software development.
@@ -28,7 +28,6 @@ Business-minded developer with a unique blend of technical expertise and interna
 - RESTful API Design
 - Cloud Architecture
 - E-commerce Solutions
-- International Business Integration
 - Digital Marketing Strategy
 
 ### 🌟 Key Projects
@@ -37,28 +36,17 @@ Business-minded developer with a unique blend of technical expertise and interna
 - **[Project Name]** - International business solution using Next.js
 - **[Project Name]** - Marketing analytics dashboard in Blazor
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
 ### 🌐 Connect With Me
 - [LinkedIn](Your LinkedIn URL)
 - [Portfolio](Your Portfolio URL)
 - [Twitter](Your Twitter URL)
 
 ### 📫 How to reach me
-- 📧 Email: your.email@domain.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: nikolasarango@outlook.com
+- 💼 LinkedIn: www.linkedin.com/in/nicolas-murillo-arango
 
 ---
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-Feel free to customize this template by:
-1. Adding your personal information
-2. Including specific projects
-3. Updating the tech stack details
-4. Adding your own unique sections
-
-To use this, save it as `README.md` in your GitHub profile repository (username/username).
  
 ###
 
