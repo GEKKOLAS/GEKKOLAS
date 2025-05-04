@@ -1,6 +1,64 @@
-<img src="welcome to my profile.png" alt="GitHub Banner" width="100%" align="center" />
 
- <h2 align="center">Hi 👋! My name is Nicolas and I'm a full-stack developer, from Colombia.<br><br>I´m currently learning about the .NET environment and game development.</h2>
+# 📱 Hi, I'm [Your Name] - Full Stack Developer 🚀
+
+## About Me
+Business-minded developer with a unique blend of technical expertise and international business acumen. Professional background in International Business and Digital Marketing, bringing a holistic approach to software development.
+
+### 🛠️ Technical Stack
+
+#### Backend
+- **.NET Core/6/7/8** - API Development, Microservices
+- **Entity Framework Core**
+- **SQL Server**
+- **Azure Cloud Services**
+
+#### Frontend
+- **Angular** - Material UI, PrimeNG
+- **React** - Next.js
+- **Blazor** - Server & WASM
+- **Vite** - Modern build tooling
+
+### 🎓 Education
+- Bachelor's in International Business
+- Digital Marketing Specialization
+- Continuous Tech Learning & Certifications
+
+### 💼 Professional Focus
+- Full Stack Development
+- RESTful API Design
+- Cloud Architecture
+- E-commerce Solutions
+- International Business Integration
+- Digital Marketing Strategy
+
+### 🌟 Key Projects
+*(You can list 2-3 of your best projects here)*
+- **[Project Name]** - E-commerce platform built with .NET 8 & Angular
+- **[Project Name]** - International business solution using Next.js
+- **[Project Name]** - Marketing analytics dashboard in Blazor
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+### 🌐 Connect With Me
+- [LinkedIn](Your LinkedIn URL)
+- [Portfolio](Your Portfolio URL)
+- [Twitter](Your Twitter URL)
+
+### 📫 How to reach me
+- 📧 Email: your.email@domain.com
+- 💼 LinkedIn: [Your LinkedIn Profile]
+
+---
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+Feel free to customize this template by:
+1. Adding your personal information
+2. Including specific projects
+3. Updating the tech stack details
+4. Adding your own unique sections
+
+To use this, save it as `README.md` in your GitHub profile repository (username/username).
  
 ###
 
