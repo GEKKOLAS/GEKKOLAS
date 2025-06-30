@@ -30,23 +30,15 @@ Business-minded developer with a unique blend of technical expertise and interna
 - E-commerce Solutions
 - Digital Marketing Strategy
 
-### 🌟 Key Projects
-*(You can list 2-3 of your best projects here)*
-- **[Project Name]** - E-commerce platform built with .NET 8 & Angular
-- **[Project Name]** - International business solution using Next.js
-- **[Project Name]** - Marketing analytics dashboard in Blazor
-
 ### 🌐 Connect With Me
-- [LinkedIn](Your LinkedIn URL)
-- [Portfolio](Your Portfolio URL)
-- [Twitter](Your Twitter URL)
+- [LinkedIn](www.linkedin.com/in/gekko)
+- [Portfolio](https://www.gekkolas.com/)
 
 ### 📫 How to reach me
 - 📧 Email: nikolasarango@outlook.com
 - 💼 LinkedIn: www.linkedin.com/in/nicolas-murillo-arango
 
 ---
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
  
 ###
 
