@@ -10,7 +10,7 @@ Business-minded developer with a unique blend of technical expertise and interna
 - **.NET Core/6/7/8** - API Development, Microservices
 - **Entity Framework Core**
 - **SQL Server**
-- **Azure Cloud Services**
+- **Azure Cloud Services, AWS**
 
 #### Frontend
 - **Angular** - Material UI, PrimeNG
