@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="SMB Automations: n8n and Zapier workflow collection project cover"><title>SMB Automations: n8n and Zapier workflow collection project cover</title><defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0D1023"/><stop offset="0.64" stop-color="#18113F"/><stop offset="1" stop-color="#10152E"/></linearGradient>
+    <linearGradient id="purple" x1="0" x2="1"><stop stop-color="#5C4AD5"/><stop offset="1" stop-color="#C58EFF"/></linearGradient>
+    <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#6048BB"/><stop offset="1" stop-color="#69BCFF"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7F50DA" stop-opacity=".45"/><stop offset="1" stop-color="#7F50DA" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="900" height="460" rx="21" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="458" rx="20" fill="none" stroke="#42416F" stroke-width="2"/>
+  <circle cx="720.0" cy="207.0" r="368.0" fill="url(#glow)"/>
+<rect x="47" y="47" width="66" height="66" rx="18" fill="#2A285F" stroke="#A879FF"/><path d="M65 75 l15 -15 l16 15 l-16 15 z M80 92 v10" stroke="#D0A5FF" stroke-width="4" fill="none"/>
+ <text x="47" y="169" fill="#D5C2FF" font-family="Arial,sans-serif" font-size="18" font-weight="bold" letter-spacing="4">WORKFLOW ENGINEERING</text>
+ <text x="45" y="245" fill="#FAFAFF" font-family="Arial,sans-serif" font-size="61" font-weight="bold">SMB Automations</text>
+ <text x="47" y="291" fill="#BCC6DE" font-family="Arial,sans-serif" font-size="25">Documented, importable automation</text>
+ <text x="47" y="328" fill="#BCC6DE" font-family="Arial,sans-serif" font-size="25">flows with interactive demos.</text><rect x="47" y="367" width="53" height="36" rx="18" fill="#252344" stroke="#6F58A5"/><text x="58" y="391" fill="#D9C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="600">n8n</text><rect x="112" y="367" width="86" height="36" rx="18" fill="#252344" stroke="#6F58A5"/><text x="123" y="391" fill="#D9C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="600">Zapier</text><rect x="210" y="367" width="97" height="36" rx="18" fill="#252344" stroke="#6F58A5"/><text x="221" y="391" fill="#D9C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="600">Next.js</text><g fill="none" stroke="#B087F8" stroke-width="4"><path d="M586 166 H657 V119 H737"/><path d="M657 166 V259 H737"/></g>
+ <g><rect x="528" y="128" width="102" height="74" rx="15" fill="#382A6C" stroke="#B189FC" stroke-width="3"/>
+ <rect x="735" y="85" width="118" height="72" rx="15" fill="#292852" stroke="#B189FC" stroke-width="3"/>
+ <rect x="735" y="226" width="118" height="72" rx="15" fill="#292852" stroke="#B189FC" stroke-width="3"/>
+ <circle cx="581" cy="165" r="15" fill="#A779EE"/><path d="M577 158 v14 l11 -7 z" fill="#FAF3FF"/>
+ <path d="M766 120 h54" stroke="#B38DF7" stroke-width="7" stroke-linecap="round"/><path d="M766 134 h34" stroke="#B38DF7" stroke-width="6" stroke-linecap="round"/>
+ <circle cx="794" cy="262" r="13" fill="#B38DF7"/><path d="M788 262 l5 5 l10 -12" fill="none" stroke="#251C47" stroke-width="4"/></g>
+ <g fill="#BAAFE0" font-family="Arial,sans-serif" font-size="18"><text x="554" y="225">Trigger</text><text x="764" y="177">Filter</text><text x="766" y="322">Action</text></g></svg>

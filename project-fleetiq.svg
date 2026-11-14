@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="FleetIQ: .NET logistics and event-driven microservices project cover"><title>FleetIQ: .NET logistics and event-driven microservices project cover</title><defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0D1023"/><stop offset="0.64" stop-color="#18113F"/><stop offset="1" stop-color="#10152E"/></linearGradient>
+    <linearGradient id="purple" x1="0" x2="1"><stop stop-color="#5C4AD5"/><stop offset="1" stop-color="#C58EFF"/></linearGradient>
+    <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#6048BB"/><stop offset="1" stop-color="#69BCFF"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7F50DA" stop-opacity=".45"/><stop offset="1" stop-color="#7F50DA" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="900" height="460" rx="21" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="458" rx="20" fill="none" stroke="#42416F" stroke-width="2"/>
+  <circle cx="720.0" cy="207.0" r="368.0" fill="url(#glow)"/>
+<path d="M0 370 Q225 220 500 355 T900 300" stroke="#5944A3" stroke-width="2" opacity=".38" fill="none"/><rect x="46" y="47" width="68" height="68" rx="18" fill="#30275C" stroke="#9C71F1"/>
+ <path d="M61 82h35m-6-13h12v28h-12m-29-18 14-14h21" fill="none" stroke="#BC90FF" stroke-width="5" stroke-linecap="round"/>
+ <text x="49" y="167" fill="#D5C2FF" font-family="Arial,sans-serif" font-size="18" font-weight="bold" letter-spacing="4">LOGISTICS PLATFORM</text>
+ <text x="46" y="247" fill="#FAFAFF" font-family="Arial,sans-serif" font-size="70" font-weight="bold">FleetIQ</text>
+ <text x="49" y="293" fill="#BCC6DE" font-family="Arial,sans-serif" font-size="25">Domain-driven, event-powered logistics</text>
+ <text x="49" y="329" fill="#BCC6DE" font-family="Arial,sans-serif" font-size="25">with independently deployed services.</text><rect x="48" y="368" width="97" height="36" rx="18" fill="#252344" stroke="#6F58A5"/><text x="59" y="392" fill="#D9C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="600">.NET 10</text><rect x="157" y="368" width="97" height="36" rx="18" fill="#252344" stroke="#6F58A5"/><text x="168" y="392" fill="#D9C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="600">Angular</text><rect x="266" y="368" width="108" height="36" rx="18" fill="#252344" stroke="#6F58A5"/><text x="277" y="392" fill="#D9C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="600">RabbitMQ</text><g opacity=".7" fill="none" stroke="#755BD3" stroke-width="2">
+ <path d="M560 126 L719 71 L842 146 L684 201 Z"/><path d="M560 126 V310 L684 384 V201 M684 384 L842 325 V146 M560 310 L720 251 L842 325"/>
+ <path d="M563 195 L720 136 L840 211 M563 255 L720 197 L840 271" stroke-dasharray="6 9"/>
+ </g><path d="M605 274 Q677 242 689 196 T800 172" fill="none" stroke="#B48DFF" stroke-width="7" stroke-linecap="round" stroke-dasharray="1 17"/>
+ <g fill="#B48DFF" stroke="#E5CBFF" stroke-width="3"><circle cx="605" cy="274" r="11"/><circle cx="689" cy="196" r="11"/><circle cx="800" cy="172" r="11"/></g>
+ <g fill="#C5B5FA" font-family="Arial,sans-serif" font-size="18"><text x="590" y="302">ORDER</text><text x="663" y="165">PLAN</text><text x="784" y="143">SHIP</text></g></svg>

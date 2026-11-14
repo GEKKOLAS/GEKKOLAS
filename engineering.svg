@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="306" viewBox="0 0 1440 306" role="img" aria-label="Engineering principles: Clean Architecture, DDD, microservices and reliable delivery"><title>Engineering principles: Clean Architecture, DDD, microservices and reliable delivery</title><defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0D1023"/><stop offset="0.64" stop-color="#18113F"/><stop offset="1" stop-color="#10152E"/></linearGradient>
+    <linearGradient id="purple" x1="0" x2="1"><stop stop-color="#5C4AD5"/><stop offset="1" stop-color="#C58EFF"/></linearGradient>
+    <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#6048BB"/><stop offset="1" stop-color="#69BCFF"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7F50DA" stop-opacity=".45"/><stop offset="1" stop-color="#7F50DA" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1440" height="306" rx="21" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1438" height="304" rx="20" fill="none" stroke="#42416F" stroke-width="2"/>
+  <circle cx="1152.0" cy="137.70000000000002" r="244.8" fill="url(#glow)"/>
+<rect x="30" y="40" width="335" height="225" rx="19" fill="#1D2142" stroke="#5C528B" stroke-width="2"/>
+ <rect x="50" y="63" width="52" height="52" rx="14" fill="#35245C" stroke="#8F6ADC"/>
+ <text x="62" y="99" fill="#C89AFE" font-family="Arial,sans-serif" font-size="23" font-weight="bold">01</text>
+ <text x="51" y="157" fill="#F9F8FF" font-family="Arial,sans-serif" font-size="23" font-weight="bold">CLEAN ARCHITECTURE</text>
+ <text x="51" y="199" fill="#B2BBD7" font-family="Arial,sans-serif" font-size="21">Boundaries, maintainability</text>
+ <text x="51" y="228" fill="#B2BBD7" font-family="Arial,sans-serif" font-size="21">and testable code.</text><rect x="385" y="40" width="335" height="225" rx="19" fill="#1D2142" stroke="#5C528B" stroke-width="2"/>
+ <rect x="405" y="63" width="52" height="52" rx="14" fill="#35245C" stroke="#8F6ADC"/>
+ <text x="417" y="99" fill="#C89AFE" font-family="Arial,sans-serif" font-size="23" font-weight="bold">02</text>
+ <text x="406" y="157" fill="#F9F8FF" font-family="Arial,sans-serif" font-size="23" font-weight="bold">DOMAIN-DRIVEN DESIGN</text>
+ <text x="406" y="199" fill="#B2BBD7" font-family="Arial,sans-serif" font-size="21">Business-first models,</text>
+ <text x="406" y="228" fill="#B2BBD7" font-family="Arial,sans-serif" font-size="21">explicit domain rules.</text><rect x="740" y="40" width="335" height="225" rx="19" fill="#1D2142" stroke="#5C528B" stroke-width="2"/>
+ <rect x="760" y="63" width="52" height="52" rx="14" fill="#35245C" stroke="#8F6ADC"/>
+ <text x="772" y="99" fill="#C89AFE" font-family="Arial,sans-serif" font-size="23" font-weight="bold">03</text>
+ <text x="761" y="157" fill="#F9F8FF" font-family="Arial,sans-serif" font-size="23" font-weight="bold">EVENT-DRIVEN SYSTEMS</text>
+ <text x="761" y="199" fill="#B2BBD7" font-family="Arial,sans-serif" font-size="21">Decoupled services, APIs</text>
+ <text x="761" y="228" fill="#B2BBD7" font-family="Arial,sans-serif" font-size="21">and message-driven flows.</text><rect x="1095" y="40" width="335" height="225" rx="19" fill="#1D2142" stroke="#5C528B" stroke-width="2"/>
+ <rect x="1115" y="63" width="52" height="52" rx="14" fill="#35245C" stroke="#8F6ADC"/>
+ <text x="1127" y="99" fill="#C89AFE" font-family="Arial,sans-serif" font-size="23" font-weight="bold">04</text>
+ <text x="1116" y="157" fill="#F9F8FF" font-family="Arial,sans-serif" font-size="23" font-weight="bold">RELIABLE DELIVERY</text>
+ <text x="1116" y="199" fill="#B2BBD7" font-family="Arial,sans-serif" font-size="21">Automation, observability</text>
+ <text x="1116" y="228" fill="#B2BBD7" font-family="Arial,sans-serif" font-size="21">and continuous testing.</text></svg>

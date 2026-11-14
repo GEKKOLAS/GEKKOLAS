@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="JobHunter OS: job search management and analytics project cover"><title>JobHunter OS: job search management and analytics project cover</title><defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0D1023"/><stop offset="0.64" stop-color="#18113F"/><stop offset="1" stop-color="#10152E"/></linearGradient>
+    <linearGradient id="purple" x1="0" x2="1"><stop stop-color="#5C4AD5"/><stop offset="1" stop-color="#C58EFF"/></linearGradient>
+    <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#6048BB"/><stop offset="1" stop-color="#69BCFF"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7F50DA" stop-opacity=".45"/><stop offset="1" stop-color="#7F50DA" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="900" height="460" rx="21" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="458" rx="20" fill="none" stroke="#42416F" stroke-width="2"/>
+  <circle cx="720.0" cy="207.0" r="368.0" fill="url(#glow)"/>
+<rect x="47" y="47" width="66" height="66" rx="18" fill="#2A285F" stroke="#A879FF"/><path d="M65 75 h30 v28 h-30 z M72 68 h16" stroke="#D0A5FF" stroke-width="4" fill="none"/>
+ <text x="47" y="169" fill="#D5C2FF" font-family="Arial,sans-serif" font-size="18" font-weight="bold" letter-spacing="4">JOB SEARCH WORKSPACE</text>
+ <text x="45" y="245" fill="#FAFAFF" font-family="Arial,sans-serif" font-size="64" font-weight="bold">JobHunter OS</text>
+ <text x="47" y="291" fill="#BCC6DE" font-family="Arial,sans-serif" font-size="25">Opportunities, recruiter CRM,</text>
+ <text x="47" y="328" fill="#BCC6DE" font-family="Arial,sans-serif" font-size="25">matching and clear analytics.</text><rect x="47" y="367" width="97" height="36" rx="18" fill="#252344" stroke="#6F58A5"/><text x="58" y="391" fill="#D9C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="600">.NET 10</text><rect x="156" y="367" width="97" height="36" rx="18" fill="#252344" stroke="#6F58A5"/><text x="167" y="391" fill="#D9C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="600">Next.js</text><rect x="265" y="367" width="130" height="36" rx="18" fill="#252344" stroke="#6F58A5"/><text x="276" y="391" fill="#D9C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="600">PostgreSQL</text><rect x="536" y="64" width="308" height="300" rx="19" fill="#1A1F40" stroke="#524A91" stroke-width="2"/>
+ <rect x="553" y="87" width="275" height="34" rx="8" fill="#2A2B54"/>
+ <circle cx="570" cy="105" r="5" fill="#BC93FF"/><rect x="584" y="101" width="114" height="7" rx="3" fill="#7569BD"/>
+ <g fill="#242953" stroke="#6253A2" stroke-width="1"><rect x="555" y="146" width="80" height="188" rx="10"/><rect x="647" y="146" width="80" height="188" rx="10"/><rect x="739" y="146" width="85" height="188" rx="10"/></g>
+ <g fill="#BA9BF8"><rect x="564" y="157" width="50" height="6" rx="3"/><rect x="658" y="157" width="50" height="6" rx="3"/><rect x="751" y="157" width="50" height="6" rx="3"/></g>
+ <g fill="#6355B3"><rect x="565" y="180" width="60" height="40" rx="7"/><rect x="565" y="231" width="60" height="40" rx="7"/><rect x="657" y="180" width="60" height="53" rx="7"/><rect x="751" y="180" width="62" height="43" rx="7"/><rect x="751" y="234" width="62" height="47" rx="7"/></g>
+ <g fill="#BEB5EE"><rect x="572" y="188" width="30" height="4" rx="2"/><rect x="572" y="198" width="42" height="3" rx="2"/><rect x="664" y="190" width="40" height="4" rx="2"/><rect x="758" y="187" width="40" height="4" rx="2"/></g>
+ <path d="M589 287 C634 268 668 288 695 270 S777 292 805 290" stroke="#B78DFF" stroke-width="4" fill="none"/>
+ <g fill="#C8A0FF"><circle cx="589" cy="287" r="5"/><circle cx="695" cy="270" r="5"/><circle cx="805" cy="290" r="5"/></g></svg>
